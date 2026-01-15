@@ -1,0 +1,1 @@
+<p align="center"><img src="https://raw.githubusercontent.com/opensubmissions/leetcode/refs/heads/main/res/pin/536066355-e2f2a8d1-b7cf-4316-976d-584fcb879356.gif"/></p>
