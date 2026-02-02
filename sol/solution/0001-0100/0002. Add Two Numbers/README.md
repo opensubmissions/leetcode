@@ -6,7 +6,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 #### **Example 1:**
 
-<img src="https://raw.githubusercontent.com/codesubmissions/leetcode/refs/heads/main/res/ino/477960261.jpg" style="width: 100%; height: 600;"/>
+<img src="https://raw.githubusercontent.com/opensubmissions/leetcode/refs/heads/main/res/ino/477960261.jpg" style="width: 100%; height: 600;"/>
 
 ```md
 Input: l1 = [2,4,3], l2 = [5,6,4]
