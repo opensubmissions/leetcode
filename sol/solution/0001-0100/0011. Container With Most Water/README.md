@@ -8,7 +8,7 @@ Return the maximum amount of water a container can store.
 
 #### **Example 1:**
 
-<img src="https://raw.githubusercontent.com/leetcoin-releases/leetcode/refs/heads/main/res/ino/477955856.jpg" style="width: 100%; height: 600;"/>
+<img src="https://raw.githubusercontent.com/opensubmissions/leetcode/refs/heads/main/res/ino/477955856.jpg" style="width: 100%; height: 600;"/>
 
 ```md
 Input: height = [1,8,6,2,5,4,8,3,7]
